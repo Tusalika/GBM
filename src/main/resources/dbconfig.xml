@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+    <Server>127.0.0.1</Server>
+    <Database>jspwork</Database>
+    <Username>root</Username>
+    <Password>root</Password>
+    <CharacterEncoding>UTF-8</CharacterEncoding>
+    <UseUnicode>true</UseUnicode>
+</Config>
